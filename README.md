@@ -6,6 +6,6 @@ Currently uses [`qmk-via-api`](https://github.com/srwi/qmk-via-api) for communic
 
 ## TODO
 
-- [] Write custom communication with HID device (using [`hidapi`](https://github.com/ruabmbua/hidapi-rs)?)
+- [ ] Write custom communication with HID device (using [`hidapi`](https://github.com/ruabmbua/hidapi-rs)?)
 without depending on `qmk-via-api` and `pyo3`(???).
-- [] Add custom buffer commands
+- [ ] Add custom buffer commands
